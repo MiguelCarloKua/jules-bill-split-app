@@ -95,6 +95,13 @@ button:hover {
     color: #2ecc71;
 }
 
+.split-detail {
+    font-size: 1.1rem;
+    color: #34495e;
+    margin-top: 10px;
+    font-weight: 500;
+}
+
 /* Make it more mobile friendly for very small screens */
 @media (max-width: 350px) {
     .container {
